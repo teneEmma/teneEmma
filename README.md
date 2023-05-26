@@ -1,5 +1,4 @@
-<h1 align="center">Welcome 👋. I'm 
-<p style="font-family:Helvetica;color:green;font-size:120%;"> TENE TAMPO Emmanuel </p></h1>
+<h1 align="center">Welcome 👋 </h1>
 
 <h3 align="center">A passionate software developer who loves challenges and everything related to tech and history. ;)</h3>
 
